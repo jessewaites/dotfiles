@@ -7,6 +7,8 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 
 export PATH="$HOME/.rbenv/shims:$PATH"
 
+alias fs="foreman s"
+
 alias cdpt3="cd ~/desktop/code/pt3"
 
 alias gcm="git checkout master"
@@ -20,6 +22,8 @@ alias gc="git commit"
 alias gs="git status"
 
 alias ga="git add"
+
+alias checkout="git checkout"
 
 alias gpom="git pull origin master"
 
